@@ -3,4 +3,8 @@ Esse repositório será dedicado a criação do Portfólio da Jothur Informátic
 
 Link do Projeto Online: (Em breve)
 
-Sites que já fiz : 
+Sites Instituicional que já fiz : 
+
+Lojas virtuais: 
+
+

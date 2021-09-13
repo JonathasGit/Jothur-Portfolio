@@ -5,4 +5,32 @@
 #logo{
     border-radius: 50%;
 }
+#favicon{
+    border-radius: 50%;
+}
 
+
+#fundohome{
+    background-color: black;
+}
+
+
+/*Cores dos menus, por conta do fundo preto */
+#home{
+    color: blanchedalmond;
+    }
+
+#sobre{
+    color: blanchedalmond;
+}
+
+#port{
+    color: blanchedalmond;
+}
+
+#servicos{
+    color: blanchedalmond;
+}
+#contato{
+    color: blanchedalmond;
+}
